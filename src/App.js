@@ -21,6 +21,7 @@ import Main from "./components/layout/Main";
 import "antd/dist/antd.css";
 import "./assets/styles/main.css";
 import "./assets/styles/responsive.css";
+import Table1s from "./pages/Table1s";
 
 function App() {
   return (
